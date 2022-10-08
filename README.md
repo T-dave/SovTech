@@ -1,5 +1,5 @@
 # SovTech
-A completed Chuk Noris project
+A completed Chuck Norris project
 
 REQUIREMENTS:
 Recommended version of node (from nodejs.org)
