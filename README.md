@@ -6,7 +6,9 @@ Recommended version of node (from nodejs.org)
 A recent version of git (from git-scm.com)
 
 HOW TO RUN THE APP:
-Navigate to the folder of your choice and run "Git clone https://github.com/T-dave/SovTech.git"
+Open the command prompt or your favorite terminal
+Navigate to the folder of your choice by running "cd" + a your desired folder within your current folder
+Run "Git clone https://github.com/T-dave/SovTech.git"
 Run "npm install" to install all the required dependencies
 Run "expo start --android" to launch the app on an android emulator(if you have one)
 Run "expo start --ios" to launch the app on an ios emulator(if you have one)
